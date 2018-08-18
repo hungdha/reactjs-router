@@ -1,0 +1,9 @@
+body{
+    background: aqua;
+}
+#app{
+    background-color: #555555;
+}
+.pattern{
+    background:url("../images/bg.png");
+}
